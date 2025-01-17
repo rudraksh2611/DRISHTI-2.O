@@ -1,0 +1,6 @@
+train: D:\RSB Carrer\DRISHTI 2.O\yolov_11_custom\train
+val: D:\RSB Carrer\DRISHTI 2.O\yolov_11_custom\val
+
+nc: 1
+
+names: ["Drone"]
